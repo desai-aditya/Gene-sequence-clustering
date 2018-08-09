@@ -9,7 +9,7 @@ two.
 Dataset Used: Amino Acid Sequence of Human Gene 
  
 Preprocessing Done:  pointsDistanceMatrix.csv file was generated using 
-Assignment2.cpp since it was a severe bottleneck to compute in Python. It 
+GSAM.cpp since it was a severe bottleneck to compute in Python. It 
 takes around 3 minutes to get generated. 
  
 Linkage and distance metric used:Average Linkage, Global Sequence 
